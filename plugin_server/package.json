@@ -1,0 +1,13 @@
+{
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.9.0"
+  },
+  "scripts": {},
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "playwright": "^1.39.0"
+  }
+}
