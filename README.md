@@ -18,7 +18,11 @@
 
 # 上手体验
 
-https://chat.openai.com/g/g-rnQtJ1XIv-da-xue-sheng-zuo-ye-bang
+GPTs：https://chat.openai.com/g/g-rnQtJ1XIv-da-xue-sheng-zuo-ye-bang
+
+文心一言项目链接：https://aistudio.baidu.com/projectdetail/7149326
+
+文心一言应用连接：https://aistudio.baidu.com/application/detail/10832
 
 # 阅读以下内容你将学会
 
