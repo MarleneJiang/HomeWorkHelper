@@ -51,7 +51,7 @@ app.get("/search", async (req, res) => {
         await answerPage.getByText("免费查看答案与解析").click();
         await answerPage.getByText("仅查看本题答案").click();
       }
-      const question = await answerPage.locator(".question-stem").innerText();
+      const question = await answerPage.locator(".question-detail .question-stem").innerText();
       const answer = await answerPage.locator(".question-anwser").innerText();
       answers.push({ question, answer });
     }
