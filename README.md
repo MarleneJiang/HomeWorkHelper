@@ -24,6 +24,8 @@ GPTs：https://chat.openai.com/g/g-rnQtJ1XIv-da-xue-sheng-zuo-ye-bang
 
 文心一言应用连接：https://aistudio.baidu.com/application/detail/10832
 
+通义千问项目链接：https://modelscope.cn/studios/MarleneJiang/homeworkhelper
+
 # 阅读以下内容你将学会
 
 1.  什么是GPTs
